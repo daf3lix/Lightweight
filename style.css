@@ -1,0 +1,26 @@
+html, body, p {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+}
+
+#headline{
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-stretch: wider;
+}
+
+.content{
+    display: none;
+    height: 700px;
+    margin: 25px;
+}
+
+.benchSlide{
+    height: 500px;
+    text-align: center;
+}
